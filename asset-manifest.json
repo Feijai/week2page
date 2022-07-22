@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/week2page/static/css/main.5e5fcbe8.css",
+    "main.js": "/week2page/static/js/main.7052cc29.js",
+    "static/media/work_img3.png": "/week2page/static/media/work_img3.765fdb0b8d4f3891f300.png",
+    "static/media/work_img1.png": "/week2page/static/media/work_img1.6148508def783c545478.png",
+    "static/media/work_img2.png": "/week2page/static/media/work_img2.873d2f0c98ca822ac6cc.png",
+    "static/media/brand_img3.png": "/week2page/static/media/brand_img3.cc50c611f33702586b0c.png",
+    "static/media/banner.png": "/week2page/static/media/banner.8c83838f47077ebb5658.png",
+    "static/media/work_img4.png": "/week2page/static/media/work_img4.caa7693ca336e23fe8af.png",
+    "static/media/work_img6.png": "/week2page/static/media/work_img6.71419f2450c535023008.png",
+    "static/media/work_img8.png": "/week2page/static/media/work_img8.84d4ab48c023915497e6.png",
+    "static/media/brand_img1.png": "/week2page/static/media/brand_img1.dfaaa5dee2b0b37a7b28.png",
+    "static/media/Roboto-Italic.ttf": "/week2page/static/media/Roboto-Italic.dcb583d9def8308113fc.ttf",
+    "static/media/work_img5.png": "/week2page/static/media/work_img5.b8843f984e10a2e45712.png",
+    "static/media/brand_img2.png": "/week2page/static/media/brand_img2.7f9881bacf3dfdaba276.png",
+    "static/media/photo.png": "/week2page/static/media/photo.ebad037812fc30d1c02a.png",
+    "static/media/work_img7.png": "/week2page/static/media/work_img7.34129365d4436d2bc4bc.png",
+    "static/media/behance.svg": "/week2page/static/media/behance.c1b8df2767cc3c76476a6a58d1c72df0.svg",
+    "static/media/instagram.svg": "/week2page/static/media/instagram.0a9cce7f202c2ad475c6e1a53987c358.svg",
+    "static/media/facebook.svg": "/week2page/static/media/facebook.33de523dfd6d1522d57047721a42d910.svg",
+    "static/media/youtube.svg": "/week2page/static/media/youtube.14aaada0e6ff978be0671fb1a8d90dc2.svg",
+    "index.html": "/week2page/index.html",
+    "main.5e5fcbe8.css.map": "/week2page/static/css/main.5e5fcbe8.css.map",
+    "main.7052cc29.js.map": "/week2page/static/js/main.7052cc29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e5fcbe8.css",
+    "static/js/main.7052cc29.js"
+  ]
+}
